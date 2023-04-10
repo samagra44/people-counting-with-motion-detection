@@ -1,0 +1,8 @@
+ID: 1 crossed going down at Sat Apr  1 21:14:35 2023
+ID: 2 crossed going down at Sat Apr  1 21:14:40 2023
+ID: 3 crossed going down at Sat Apr  1 21:14:44 2023
+ID: 5 crossed going up at Sat Apr  1 21:14:45 2023
+ID: 7 crossed going down at Sat Apr  1 21:14:47 2023
+ID: 9 crossed going up at Sat Apr  1 21:14:48 2023
+ID: 10 crossed going up at Sat Apr  1 21:14:48 2023
+ID: 9 crossed going down at Sat Apr  1 21:14:52 2023
